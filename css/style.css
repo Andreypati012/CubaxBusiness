@@ -604,7 +604,7 @@ main {
     bottom: 24%;
   }
   .information__subtext {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
   .header__body {
     position: fixed;
@@ -892,7 +892,7 @@ main {
     left: 26%;
   }
   .information__btn {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
   }
 }
 @media all and (max-width: 28.125em) {
@@ -924,7 +924,7 @@ main {
     top: -18%;
   }
   .information__title {
-    font-size: 1.3em;
+    font-size: 1.4em;
   }
 }
 @media all and (max-width: 21.875em) {
@@ -8567,4 +8567,8 @@ svg {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
+@media all and (max-width: 26.25em) {
+  .spoller__title {
+    font-size: 0.9rem;
+  }
+}/*# sourceMappingURL=style.css.map */
