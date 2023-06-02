@@ -8567,7 +8567,7 @@ svg {
   opacity: 0;
 }
 
-@media all and (max-width: 26.25em) {
+@media all and (max-width: 420px) {
   .spoller__title {
     font-size: 0.9rem;
   }
