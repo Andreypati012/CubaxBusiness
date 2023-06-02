@@ -8565,4 +8565,10 @@ svg {
 .check-box-popup {
   z-index: 2;
   opacity: 0;
+}
+
+@media all and (max-width: 26.25em) {
+  .spoller__title {
+    font-size: 0.9rem;
+  }
 }/*# sourceMappingURL=style.css.map */
