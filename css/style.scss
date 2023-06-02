@@ -7051,7 +7051,7 @@ svg{
 
 
 .spoller__title{
-	font-size: 0.9rem;
+	font-size: 1rem;
 	color: #fff;
 	line-height: 1.5em;
 	letter-spacing: 1.1px;
@@ -7607,6 +7607,9 @@ svg{
 @media all and (max-width: 26.25em){
 	.info-spoller__btn::before {
 		left: -7rem;
+	}
+	.spoller__title {
+		font-size: 0.9rem;
 	}
 }
 
