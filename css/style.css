@@ -6131,6 +6131,9 @@ svg {
     height: 35%;
     top: 80%;
   }
+  .build-info {
+    padding-bottom: 9.8125em;
+}
 }
 @media all and (max-width: 33.93em) and (max-width: 32.35em) {
   .list-card-three::after,
