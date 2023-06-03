@@ -851,6 +851,9 @@ main{
 		left: 25%;
 		max-width: 55%;
 	}
+	.information {
+		padding-top: 10.6875rem;
+	}
 }
 
 //650px
@@ -860,6 +863,9 @@ main{
 		top: -4%;
 		left: 27%;
 		max-width: 55%;
+	}
+	.information {
+		padding-top: 9.6875rem;
 	}
 }
 
@@ -876,6 +882,9 @@ main{
 	}
 	.information__text {
 		font-size: 1rem;
+	}
+	.information {
+		padding-top: 8.6875rem;
 	}
 }
 
@@ -907,6 +916,9 @@ main{
 	.information__btn {
 		font-size: 0.9rem;
 	}
+	.information {
+		padding-top: 7.6875rem;
+	}
 }
 
 //450px
@@ -928,6 +940,9 @@ main{
 @media all and (max-width: 26.25em){
 	.information__image-krone img {
 		top: 2%;
+	}
+	.information {
+		padding-top: 12.6875rem;
 	}
 }
 
@@ -951,6 +966,9 @@ main{
 	.information__title {
 		font-size: 1.4em;
 	}
+	.information {
+		padding-top: 11rem;
+	}
 }
 
 //350
@@ -972,6 +990,9 @@ main{
 	}
 	.information__subtext {
 		font-size: 0.6rem;
+	}
+	.information {
+		padding-top: 10rem;
 	}
 }
 

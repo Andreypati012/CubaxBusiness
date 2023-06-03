@@ -853,12 +853,18 @@ main {
     left: 25%;
     max-width: 55%;
   }
+  .information {
+    padding-top: 10.6875rem;
+  }
 }
 @media all and (max-width: 40.625em) {
   .information__image-krone img {
     top: -4%;
     left: 27%;
     max-width: 55%;
+  }
+  .information {
+    padding-top: 9.6875rem;
   }
 }
 @media all and (max-width: 37.5em) {
@@ -872,6 +878,9 @@ main {
   }
   .information__text {
     font-size: 1rem;
+  }
+  .information {
+    padding-top: 8.6875rem;
   }
 }
 @media all and (max-width: 34.375em) {
@@ -894,6 +903,9 @@ main {
   .information__btn {
     font-size: 0.9rem;
   }
+  .information {
+    padding-top: 7.6875rem;
+  }
 }
 @media all and (max-width: 28.125em) {
   .information__image-krone img {
@@ -909,6 +921,9 @@ main {
 @media all and (max-width: 26.25em) {
   .information__image-krone img {
     top: 2%;
+  }
+  .information {
+    padding-top: 12.6875rem;
   }
 }
 @media all and (max-width: 26.25em) {
@@ -926,6 +941,9 @@ main {
   .information__title {
     font-size: 1.4em;
   }
+  .information {
+    padding-top: 11rem;
+  }
 }
 @media all and (max-width: 21.875em) {
   .information__image-krone img {
@@ -941,6 +959,9 @@ main {
   }
   .information__subtext {
     font-size: 0.6rem;
+  }
+  .information {
+    padding-top: 10rem;
   }
 }
 .header {
