@@ -83,6 +83,17 @@ else{
   });
 
 
+  const telephoneActive = document.querySelector('.header__contacts');
+  console.log(true);
+  if(telephoneActive){
+      telephoneActive.addEventListener('click', function (e){
+        burger.classList.toggle('openBurger');
+        bodyMenuBurger.classList.toggle('OpenBodyMenu');
+     })
+  }
+
+
+
  //ленивая подгрузка
 
   const allImage = document.querySelectorAll('img[data-src]');
